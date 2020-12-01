@@ -20,4 +20,4 @@ Welcome to my Github profile. My name is **Rasuna** 👨🏻‍💻
   - 🇺🇸 Lived in Houston, TX for 5 years and currently living in New York, NY
   - 🎮 I like to play video games. FPS, RPG, Strategy, you name it. Favorite game of all time: 🗡 _Dark Souls_
   - 🎸 I can play various music instrument (guitar, bass, drum, piano), but I am a horrible singer
-  - ⚽️ I like soccer. Favorite team: 🦇 _Valencia CF_
+  - ⚽️ I also like soccer. Favorite team: 🦇 _Valencia CF_
