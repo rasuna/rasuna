@@ -6,10 +6,10 @@ Welcome to my Github profile. My name is **Rasuna** 👨🏻‍💻
   <a href="mailto:rasuna.khatami@wearekettle.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="twitter.com/rasunabaker">
+  <a href="https://twitter.com/rasunabaker">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="email" />
   </a>
-  <a href="linkedin.com/in/rasuna">
+  <a href="https://linkedin.com/in/rasuna">
     <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="email" />
   </a>
 </p>
